@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/dps/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/dps/static/js/main.b4d68a56.chunk.js",
-    "main.js.map": "/dps/static/js/main.b4d68a56.chunk.js.map",
-    "runtime-main.js": "/dps/static/js/runtime-main.096c9340.js",
-    "runtime-main.js.map": "/dps/static/js/runtime-main.096c9340.js.map",
-    "static/js/2.bbc229a7.chunk.js": "/dps/static/js/2.bbc229a7.chunk.js",
-    "static/js/2.bbc229a7.chunk.js.map": "/dps/static/js/2.bbc229a7.chunk.js.map",
-    "static/js/3.ab008039.chunk.js": "/dps/static/js/3.ab008039.chunk.js",
-    "static/js/3.ab008039.chunk.js.map": "/dps/static/js/3.ab008039.chunk.js.map",
-    "index.html": "/dps/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/dps/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.bbc229a7.chunk.js.LICENSE.txt": "/dps/static/js/2.bbc229a7.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/dps/static/media/logo.6ce24c58.svg"
+    "main.css": "/karun02525/dps/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/karun02525/dps/static/js/main.b4d68a56.chunk.js",
+    "main.js.map": "/karun02525/dps/static/js/main.b4d68a56.chunk.js.map",
+    "runtime-main.js": "/karun02525/dps/static/js/runtime-main.dea294d1.js",
+    "runtime-main.js.map": "/karun02525/dps/static/js/runtime-main.dea294d1.js.map",
+    "static/js/2.bbc229a7.chunk.js": "/karun02525/dps/static/js/2.bbc229a7.chunk.js",
+    "static/js/2.bbc229a7.chunk.js.map": "/karun02525/dps/static/js/2.bbc229a7.chunk.js.map",
+    "static/js/3.ab008039.chunk.js": "/karun02525/dps/static/js/3.ab008039.chunk.js",
+    "static/js/3.ab008039.chunk.js.map": "/karun02525/dps/static/js/3.ab008039.chunk.js.map",
+    "index.html": "/karun02525/dps/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/karun02525/dps/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.bbc229a7.chunk.js.LICENSE.txt": "/karun02525/dps/static/js/2.bbc229a7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/karun02525/dps/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.096c9340.js",
+    "static/js/runtime-main.dea294d1.js",
     "static/js/2.bbc229a7.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.b4d68a56.chunk.js"
