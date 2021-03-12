@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dps_web/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/dps_web/static/js/main.b4d68a56.chunk.js",
+    "main.js.map": "/dps_web/static/js/main.b4d68a56.chunk.js.map",
+    "runtime-main.js": "/dps_web/static/js/runtime-main.58c1c9c0.js",
+    "runtime-main.js.map": "/dps_web/static/js/runtime-main.58c1c9c0.js.map",
+    "static/js/2.bbc229a7.chunk.js": "/dps_web/static/js/2.bbc229a7.chunk.js",
+    "static/js/2.bbc229a7.chunk.js.map": "/dps_web/static/js/2.bbc229a7.chunk.js.map",
+    "static/js/3.ab008039.chunk.js": "/dps_web/static/js/3.ab008039.chunk.js",
+    "static/js/3.ab008039.chunk.js.map": "/dps_web/static/js/3.ab008039.chunk.js.map",
+    "index.html": "/dps_web/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/dps_web/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.bbc229a7.chunk.js.LICENSE.txt": "/dps_web/static/js/2.bbc229a7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dps_web/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58c1c9c0.js",
+    "static/js/2.bbc229a7.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.b4d68a56.chunk.js"
+  ]
+}
